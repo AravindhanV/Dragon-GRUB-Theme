@@ -1,6 +1,8 @@
 # Dragon-GRUB-Theme
 Dragon GRUB Theme for the GRUB2 bootloader
+
 Supported Languages: English
+
 Best results on 1920x1080 screens
 ____________________________________________________________________________
 Install:
