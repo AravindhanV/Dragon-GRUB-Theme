@@ -5,7 +5,7 @@ Supported Languages: English
 
 Best results on 1920x1080 screens
 ____________________________________________________________________________
-Install:
+### Install:
 
 Copy the folder 'Dragon-GRUB-Theme' to /boot/grub/themes 
 NOTE: use `sudo mkdir /boot/grub/themes` if you dont have the folder
@@ -23,3 +23,6 @@ Found theme: /boot/grub/themes/Dragon-GRUB-Theme/theme.txt
 ```
 
 You're now ready to go!
+
+### Screenshot
+<img src="https://github.com/AravindhanV/images1/blob/master/GRUB%20screenshot.png">
